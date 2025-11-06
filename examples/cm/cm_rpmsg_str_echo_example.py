@@ -10,6 +10,10 @@ on its terminal. The program will continue to prompt for input until the user
 types "quit".
 """
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import sys
 
 from pyvar.cm.core import CortexM
