@@ -102,7 +102,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -136,3 +135,5 @@ docker/latest-package/
 
 # Editors
 .idea/
+config.bat
+node_modules
